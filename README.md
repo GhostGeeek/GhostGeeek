@@ -1,9 +1,5 @@
 ![Header](./GG.png)
 
-
-
-# GhostGeeek
-
 Willkommen auf meinem GitHub-Profil.  
 Ich entwickle skalierbare Lösungen rund um Prozessautomatisierung, KI-gestützte Assistenten und schlanke SaaS-Produkte für den Mittelstand.
 
